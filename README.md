@@ -11,7 +11,7 @@
 O **EcoDrop** é um minigame **educativo e interativo** com temática de reciclagem. Nele, o jogador controla uma lixeira de reciclagem na tela para capturar itens que caem verticalmente. O objetivo é:
 
 - **Capturar itens recicláveis** (papel, vidro, plástico, alumínio, papelão) para ganhar pontos
-- **Evitar capturar itens não-recicláveis** (restos de comida, fraldas, cigarros, isopor, espelhos quebrados)
+- **Evitar capturar itens não-recicláveis** (bombas)
 
 Se o jogador capturar um item não-reciclável, o jogo termina imediatamente. Conforme a pontuação aumenta, a proporção de itens não-recicláveis também aumenta, tornando o jogo progressivamente mais desafiador.
 

@@ -14,11 +14,11 @@ const RECICLAVEIS = [
   { emoji: '🥫', label: 'Lata de alumínio' },
 ];
 const NAO_RECICLAVEIS = [
-  { emoji: '🍗', label: 'Restos de comida' },
-  { emoji: '🩹', label: 'Fralda usada' },
-  { emoji: '🚬', label: 'Cigarro' },
-  { emoji: '🍔', label: 'Isopor' },
-  { emoji: '🪞', label: 'Espelho quebrado' },
+  { emoji: '💣', label: 'bomba' },
+  { emoji: '💣', label: 'bomba' },
+  { emoji: '💣', label: 'bomba' },
+  { emoji: '💣', label: 'bomba' },
+  { emoji: '💣', label: 'bomba' },
 ];
 
 const BG_THEMES = ['bg-park', 'bg-beach', 'bg-city', 'bg-forest', 'bg-river'];
