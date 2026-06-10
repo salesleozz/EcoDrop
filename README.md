@@ -38,10 +38,10 @@ A ODS 12 visa **garantir padrões de produção e consumo sustentáveis**. O Eco
 
 | Participante | Função |
 |---|---|
-| **Leonardo Sales** | Desenvolvedor |
-| **Lucas Antonio Gomes** | Desenvolvedor |
 | **Denner Ferreira Santos** | Desenvolvedor |
 | **Gustavo Nunes Modesto** | Desenvolvedor |
+| **Leonardo Sales** | Desenvolvedor |
+| **Lucas Antonio Gomes** | Desenvolvedor |
 | **Murilo Amorim Castro** | Desenvolvedor |
 
 ---
